@@ -46,6 +46,6 @@ Assets managed by the IT Department include:
 This audit highlights significant gaps in Botium Toys' security practices. Implementing the recommended controls will help mitigate risks and improve compliance with industry standards.
 
 ## Project Files
-- [Security Audit Scope and Goals](link_to_your_exported_pdf1)
-- [Controls and Compliance Checklist](link_to_your_exported_pdf2)
+- [Security Audit Scope and Goals](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
+- [Controls and Compliance Checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/template/preview#heading=h.87tykp1u0l36)
 
